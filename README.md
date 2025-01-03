@@ -25,7 +25,7 @@
 
 
 1. **Feature Engineering**
-   - TechnicalAnalysis (VWap ...)
+   - Technical Analysis (VWap ...)
    - Tick base (VPIN ...)
    - Time series (Moving average ...)
 
