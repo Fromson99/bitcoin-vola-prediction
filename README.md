@@ -13,7 +13,7 @@
   공모전
 - **주최:**
   ASCEND
-
+- **역할:** Team leader, 아이디어 제시(shuffle, data cutting), 사후분석
 
 ## 프로젝트 핵심 (Point)
 
